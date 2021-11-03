@@ -2,7 +2,7 @@
 OutAirNet monorepo
 
 3/11/21
-So happy to be documenting this repo. This time documentation will succeed!
+So happy to be documenting this repo. This time, documentation will succeed!
 
 The first copy is already a messed up one (ofcourse) of the framework that I've started, knowing that the first version will be unused, but just uploaded for historical reasons. Basically a good place to remember the messy programmer I used to be.
 
